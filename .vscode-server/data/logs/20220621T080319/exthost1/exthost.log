@@ -1,0 +1,27 @@
+[2022-06-21 08:04:20.518] [exthost] [info] Extension host with pid 2329 started
+[2022-06-21 08:04:20.524] [exthost] [error] Error: EEXIST: file already exists, open '/home/rauli/.vscode-server/data/User/workspaceStorage/72edff11ca1f0b80be223a385aed8ecd/vscode.lock'
+[2022-06-21 08:04:20.538] [exthost] [info] Lock '/home/rauli/.vscode-server/data/User/workspaceStorage/72edff11ca1f0b80be223a385aed8ecd/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-06-21 08:04:20.542] [exthost] [info] Lock '/home/rauli/.vscode-server/data/User/workspaceStorage/72edff11ca1f0b80be223a385aed8ecd/vscode.lock': The pid 12008 appears to be gone.
+[2022-06-21 08:04:20.542] [exthost] [info] Lock '/home/rauli/.vscode-server/data/User/workspaceStorage/72edff11ca1f0b80be223a385aed8ecd/vscode.lock': Deleting a stale lock.
+[2022-06-21 08:04:20.548] [exthost] [info] Lock '/home/rauli/.vscode-server/data/User/workspaceStorage/72edff11ca1f0b80be223a385aed8ecd/vscode.lock': Lock acquired.
+[2022-06-21 08:04:20.732] [exthost] [info] ExtensionService#_doActivateExtension batisteo.vscode-django, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-21 08:04:20.758] [exthost] [info] ExtensionService#_doActivateExtension KevinRose.vsc-python-indent, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-21 08:04:20.767] [exthost] [info] ExtensionService#_doActivateExtension mgesbert.python-path, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-21 08:04:20.844] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-21 08:04:21.508] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-21 08:04:22.283] [exthost] [info] ExtensionService#_doActivateExtension njpwerner.autodocstring, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-21 08:04:22.345] [exthost] [info] ExtensionService#_doActivateExtension tht13.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-21 08:04:22.374] [exthost] [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-21 08:04:22.526] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-21 08:04:22.532] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-21 08:04:22.538] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-21 08:04:22.959] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-21 08:04:23.056] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-21 08:04:23.262] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-21 08:04:23.287] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-21 08:04:23.293] [exthost] [info] Eager extensions activated
+[2022-06-21 08:04:24.566] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-06-21 08:04:24.953] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-06-21 18:59:03.306] [exthost] [info] Extension host terminating: renderer disconnected for too long (1)
+[2022-06-21 18:59:03.308] [exthost] [info] Lock '/home/rauli/.vscode-server/data/User/workspaceStorage/72edff11ca1f0b80be223a385aed8ecd/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-06-21 18:59:03.355] [exthost] [info] Extension host with pid 2329 exiting with code 0

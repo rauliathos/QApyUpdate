@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block body %}
+<br>
+{% for todo in todos %}
+<p>Task: {{ todo.task }} </p>
+<p>Completed: {{ todo.completed }}</p> 
+<button type="submit">Delete Task</button>
+{% endfor %}
+{% endblock body %}

@@ -1,0 +1,14 @@
+[2022-06-20 15:20:07.821] [exthost] [info] Extension host with pid 11771 started
+[2022-06-20 15:20:07.846] [exthost] [info] Lock '/home/rauli/.vscode-server/data/User/workspaceStorage/f492f14829187396cbae83e0df417ab8/vscode.lock': Lock acquired.
+[2022-06-20 15:20:08.144] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-20 15:20:08.151] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-20 15:20:08.158] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-20 15:20:08.236] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-20 15:20:08.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-20 15:20:08.472] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-20 15:20:08.504] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-20 15:20:08.512] [exthost] [info] Eager extensions activated
+[2022-06-20 15:20:26.118] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.vscode-mysql, startup: false, activationEvent: 'onView:mysql'
+[2022-06-20 15:22:33.066] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-20 15:22:33.067] [exthost] [info] Lock '/home/rauli/.vscode-server/data/User/workspaceStorage/f492f14829187396cbae83e0df417ab8/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-06-20 15:22:33.078] [exthost] [info] Extension host with pid 11771 exiting with code 0

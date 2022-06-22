@@ -1,0 +1,5 @@
+Create a Flask application that passes this list of names to a
+ template and within the template iterates through the list 
+ and only shows the names that contain the letter "b".
+
+["ben", "harry", "bob", "jay", "matt", "bill"]

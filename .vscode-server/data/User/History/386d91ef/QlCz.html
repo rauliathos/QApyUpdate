@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block body %}
+<br>
+{% for todo in todos %}
+<p>Task: {{ todo.task }} </p>
+<p>Completed: {{ todo.completed }}</p> 
+<br>
+<form action="{{url_for('update', task=todo.task)}}"></form>
+<button type="Submit"> Update Task</button>
+<br>
+<form action="{{url_for('delete', id=todo.id)}}"></form>
+<br>
+<button type="Submit"> Delete Task</button>
+<br>
+<br>
+
+{% endfor %}
+{% endblock body %}

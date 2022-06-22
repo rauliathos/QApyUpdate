@@ -1,0 +1,174 @@
+[2022-06-20 09:03:59.834] [remoteagent] [info] Extension host agent started.
+[2022-06-20 09:04:00.249] [remoteagent] [info] [127.0.0.1][72cb3205][ManagementConnection] New connection established.
+[2022-06-20 09:04:00.270] [remoteagent] [info] [127.0.0.1][9e238908][ExtensionHostConnection] New connection established.
+[2022-06-20 09:04:00.281] [remoteagent] [info] [127.0.0.1][9e238908][ExtensionHostConnection] <19359> Launched Extension Host Process.
+[2022-06-20 14:55:01.148] [remoteagent] [info] Getting Manifest... ms-python.python
+[2022-06-20 14:55:01.226] [remoteagent] [info] Installing extension: ms-python.python
+[2022-06-20 14:55:02.360] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-06-20 14:55:02.547] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-06-20 14:55:02.565] [remoteagent] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-06-20 14:55:02.586] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-06-20 14:55:02.684] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-06-20 14:55:02.684] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-06-20 14:55:02.685] [remoteagent] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-06-20 14:55:02.685] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-06-20 14:55:03.356] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/rauli/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-06-20 14:55:03.442] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.1a71b831-cccd-434f-95cd-25a60ff990e7: ms-toolsai.jupyter-keymap
+[2022-06-20 14:55:03.821] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/rauli/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.8
+[2022-06-20 14:55:03.822] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /home/rauli/.vscode-server/data/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.4.1021342353
+[2022-06-20 14:55:03.822] [remoteagent] [info] Downloaded extension: ms-python.python /home/rauli/.vscode-server/data/CachedExtensionVSIXs/ms-python.python-2022.8.0
+[2022-06-20 14:55:03.822] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-06-20 14:55:03.826] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-06-20 14:55:04.753] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.c2ed6ec5-e925-433d-9f21-4877d9af3a1e: ms-toolsai.jupyter-renderers
+[2022-06-20 14:55:04.762] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.8
+[2022-06-20 14:55:04.766] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-06-20 14:55:06.106] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.a238a5bc-e1a9-475f-8dba-8864f4aca14e: ms-toolsai.jupyter
+[2022-06-20 14:55:06.119] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/ms-toolsai.jupyter-2022.4.1021342353
+[2022-06-20 14:55:06.142] [remoteagent] [info] Extracting completed. ms-toolsai.jupyter
+[2022-06-20 14:55:08.707] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.1c8b8eec-cd44-4b9f-a1f1-0aa8ba29726e: ms-python.python
+[2022-06-20 14:55:08.719] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/ms-python.python-2022.8.0
+[2022-06-20 14:55:08.724] [remoteagent] [info] Extracting completed. ms-python.python
+[2022-06-20 14:55:09.102] [remoteagent] [info] Getting Manifest... tht13.python
+[2022-06-20 14:55:09.186] [remoteagent] [info] Installing extension: tht13.python
+[2022-06-20 14:55:09.570] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/rauli/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.6.20
+[2022-06-20 14:55:09.677] [remoteagent] [info] Downloaded extension: tht13.python /home/rauli/.vscode-server/data/CachedExtensionVSIXs/tht13.python-0.2.3
+[2022-06-20 14:55:09.859] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.e205d84a-c0a7-4df7-b1dd-c0ff26b8ac61: tht13.python
+[2022-06-20 14:55:09.866] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/tht13.python-0.2.3
+[2022-06-20 14:55:09.868] [remoteagent] [info] Extracting completed. tht13.python
+[2022-06-20 14:55:09.869] [remoteagent] [info] Extension installed successfully: tht13.python
+[2022-06-20 14:55:15.122] [remoteagent] [info] Getting Manifest... donjayamanne.python-extension-pack
+[2022-06-20 14:55:15.165] [remoteagent] [info] Installing extension: donjayamanne.python-extension-pack
+[2022-06-20 14:55:15.393] [remoteagent] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-06-20 14:55:15.439] [remoteagent] [info] Getting Manifest... batisteo.vscode-django
+[2022-06-20 14:55:15.473] [remoteagent] [info] Getting Manifest... wholroyd.jinja
+[2022-06-20 14:55:15.508] [remoteagent] [info] Getting Manifest... njpwerner.autodocstring
+[2022-06-20 14:55:15.558] [remoteagent] [info] Getting Manifest... kevinrose.vsc-python-indent
+[2022-06-20 14:55:15.605] [remoteagent] [info] Getting Manifest... donjayamanne.python-environment-manager
+[2022-06-20 14:55:15.687] [remoteagent] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2022-06-20 14:55:15.687] [remoteagent] [info] Installing extension: batisteo.vscode-django
+[2022-06-20 14:55:15.687] [remoteagent] [info] Installing extension: wholroyd.jinja
+[2022-06-20 14:55:15.687] [remoteagent] [info] Installing extension: njpwerner.autodocstring
+[2022-06-20 14:55:15.688] [remoteagent] [info] Installing extension: kevinrose.vsc-python-indent
+[2022-06-20 14:55:15.688] [remoteagent] [info] Installing extension: donjayamanne.python-environment-manager
+[2022-06-20 14:55:16.382] [remoteagent] [info] Downloaded extension: batisteo.vscode-django /home/rauli/.vscode-server/data/CachedExtensionVSIXs/batisteo.vscode-django-1.10.0
+[2022-06-20 14:55:16.390] [remoteagent] [info] Downloaded extension: wholroyd.jinja /home/rauli/.vscode-server/data/CachedExtensionVSIXs/wholroyd.jinja-0.0.8
+[2022-06-20 14:55:16.422] [remoteagent] [info] Downloaded extension: njpwerner.autodocstring /home/rauli/.vscode-server/data/CachedExtensionVSIXs/njpwerner.autodocstring-0.6.1
+[2022-06-20 14:55:16.503] [remoteagent] [info] Downloaded extension: kevinrose.vsc-python-indent /home/rauli/.vscode-server/data/CachedExtensionVSIXs/kevinrose.vsc-python-indent-1.16.0
+[2022-06-20 14:55:16.602] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.9e0952b4-9972-47da-8c0c-317f682f0b7f: wholroyd.jinja
+[2022-06-20 14:55:16.702] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.e865bcd1-4f94-4c35-97a0-c2d0f2f3d41e: kevinrose.vsc-python-indent
+[2022-06-20 14:55:16.853] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/wholroyd.jinja-0.0.8
+[2022-06-20 14:55:16.854] [remoteagent] [info] Downloaded extension: donjayamanne.python-environment-manager /home/rauli/.vscode-server/data/CachedExtensionVSIXs/donjayamanne.python-environment-manager-1.0.4
+[2022-06-20 14:55:16.855] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/kevinrose.vsc-python-indent-1.16.0
+[2022-06-20 14:55:16.856] [remoteagent] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/rauli/.vscode-server/data/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.21
+[2022-06-20 14:55:16.862] [remoteagent] [info] Extracting completed. wholroyd.jinja
+[2022-06-20 14:55:16.864] [remoteagent] [info] Extracting completed. kevinrose.vsc-python-indent
+[2022-06-20 14:55:16.933] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.7cd67aa7-edb1-4902-8fca-2b2edce0d0a4: ms-python.vscode-pylance
+[2022-06-20 14:55:16.944] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.20
+[2022-06-20 14:55:16.961] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-06-20 14:55:16.962] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-06-20 14:55:16.962] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-06-20 14:55:16.962] [remoteagent] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-06-20 14:55:16.962] [remoteagent] [info] Extension installed successfully: ms-python.python
+[2022-06-20 14:55:16.962] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-06-20 14:55:17.257] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.7ab0d576-f195-4ae7-b7ef-05db5477c6b7: njpwerner.autodocstring
+[2022-06-20 14:55:17.266] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/njpwerner.autodocstring-0.6.1
+[2022-06-20 14:55:17.274] [remoteagent] [info] Extracting completed. njpwerner.autodocstring
+[2022-06-20 14:55:17.351] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.0b1d03f6-9111-42fb-a896-a5d8dc45fbb1: batisteo.vscode-django
+[2022-06-20 14:55:17.361] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/batisteo.vscode-django-1.10.0
+[2022-06-20 14:55:17.367] [remoteagent] [info] Extracting completed. batisteo.vscode-django
+[2022-06-20 14:55:21.742] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.6bc62ed5-059f-4175-a26a-2df6f6e2b039: visualstudioexptteam.vscodeintellicode
+[2022-06-20 14:55:21.772] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/visualstudioexptteam.vscodeintellicode-1.2.21
+[2022-06-20 14:55:21.793] [remoteagent] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2022-06-20 14:55:25.517] [remoteagent] [info] Getting Manifest... dongli.python-preview
+[2022-06-20 14:55:25.633] [remoteagent] [info] Installing extension: dongli.python-preview
+[2022-06-20 14:55:26.970] [remoteagent] [info] Downloaded extension: dongli.python-preview /home/rauli/.vscode-server/data/CachedExtensionVSIXs/dongli.python-preview-0.0.4
+[2022-06-20 14:55:27.321] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.d0d14ca3-55fc-452d-b14c-89dcb4051fc8: dongli.python-preview
+[2022-06-20 14:55:27.331] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/dongli.python-preview-0.0.4
+[2022-06-20 14:55:27.343] [remoteagent] [info] Extracting completed. dongli.python-preview
+[2022-06-20 14:55:27.344] [remoteagent] [info] Extension installed successfully: dongli.python-preview
+[2022-06-20 14:55:29.169] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.a68ab9da-ef1f-41e5-9c5d-d9d6af16cb71: donjayamanne.python-environment-manager
+[2022-06-20 14:55:29.187] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/donjayamanne.python-environment-manager-1.0.4
+[2022-06-20 14:55:29.198] [remoteagent] [info] Extracting completed. donjayamanne.python-environment-manager
+[2022-06-20 14:55:29.628] [remoteagent] [info] Downloaded extension: donjayamanne.python-extension-pack /home/rauli/.vscode-server/data/CachedExtensionVSIXs/donjayamanne.python-extension-pack-1.7.0
+[2022-06-20 14:55:29.703] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.7a77ba7c-6820-405b-8a0d-7ec4f12e2c71: donjayamanne.python-extension-pack
+[2022-06-20 14:55:29.709] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/donjayamanne.python-extension-pack-1.7.0
+[2022-06-20 14:55:29.712] [remoteagent] [info] Extracting completed. donjayamanne.python-extension-pack
+[2022-06-20 14:55:29.713] [remoteagent] [info] Extension installed successfully: wholroyd.jinja
+[2022-06-20 14:55:29.713] [remoteagent] [info] Extension installed successfully: kevinrose.vsc-python-indent
+[2022-06-20 14:55:29.713] [remoteagent] [info] Extension installed successfully: njpwerner.autodocstring
+[2022-06-20 14:55:29.713] [remoteagent] [info] Extension installed successfully: batisteo.vscode-django
+[2022-06-20 14:55:29.713] [remoteagent] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2022-06-20 14:55:29.714] [remoteagent] [info] Extension installed successfully: donjayamanne.python-environment-manager
+[2022-06-20 14:55:29.714] [remoteagent] [info] Extension installed successfully: donjayamanne.python-extension-pack
+[2022-06-20 14:55:33.340] [remoteagent] [info] Getting Manifest... mgesbert.python-path
+[2022-06-20 14:55:33.379] [remoteagent] [info] Installing extension: mgesbert.python-path
+[2022-06-20 14:55:34.250] [remoteagent] [info] Downloaded extension: mgesbert.python-path /home/rauli/.vscode-server/data/CachedExtensionVSIXs/mgesbert.python-path-0.0.11
+[2022-06-20 14:55:34.763] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.42c50e31-c0e4-460e-be3f-0c9ef8bd8573: mgesbert.python-path
+[2022-06-20 14:55:34.777] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/mgesbert.python-path-0.0.11
+[2022-06-20 14:55:34.786] [remoteagent] [info] Extracting completed. mgesbert.python-path
+[2022-06-20 14:55:34.787] [remoteagent] [info] Extension installed successfully: mgesbert.python-path
+[2022-06-20 15:14:53.161] [remoteagent] [info] [127.0.0.1][72cb3205][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-20 15:14:53.240] [remoteagent] [info] [127.0.0.1][9e238908][ExtensionHostConnection] <19359> Extension Host Process exited with code: 0, signal: null.
+[2022-06-20 15:14:53.240] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-06-20 15:14:57.466] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-06-20 15:14:57.466] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-20 15:14:57.897] [remoteagent] [info] [127.0.0.1][3fcf7c79][ManagementConnection] New connection established.
+[2022-06-20 15:14:57.957] [remoteagent] [info] [127.0.0.1][feae44e5][ExtensionHostConnection] New connection established.
+[2022-06-20 15:14:57.973] [remoteagent] [info] [127.0.0.1][feae44e5][ExtensionHostConnection] <11141> Launched Extension Host Process.
+[2022-06-20 15:14:58.739] [remoteagent] [info] [127.0.0.1][3fcf7c79][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-06-20 15:14:58.745] [remoteagent] [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/server/node/server.main.js:143:7914)
+    at process.emit (node:events:390:28)
+[2022-06-20 15:14:58.833] [remoteagent] [info] [127.0.0.1][3fcf7c79][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-20 15:16:16.976] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-06-20 15:16:16.976] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-20 15:16:17.925] [remoteagent] [info] [127.0.0.1][283d6caa][ManagementConnection] New connection established.
+[2022-06-20 15:16:17.991] [remoteagent] [info] [127.0.0.1][94cc9bf9][ExtensionHostConnection] New connection established.
+[2022-06-20 15:16:18.004] [remoteagent] [info] [127.0.0.1][94cc9bf9][ExtensionHostConnection] <11290> Launched Extension Host Process.
+[2022-06-20 15:17:17.659] [remoteagent] [info] [127.0.0.1][283d6caa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-20 15:17:17.679] [remoteagent] [info] [127.0.0.1][94cc9bf9][ExtensionHostConnection] <11290> Extension Host Process exited with code: 0, signal: null.
+[2022-06-20 15:17:17.679] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-20 15:17:22.171] [remoteagent] [info] [127.0.0.1][0d16ee64][ManagementConnection] New connection established.
+[2022-06-20 15:17:22.249] [remoteagent] [info] [127.0.0.1][28e626c7][ExtensionHostConnection] New connection established.
+[2022-06-20 15:17:22.261] [remoteagent] [info] [127.0.0.1][28e626c7][ExtensionHostConnection] <11531> Launched Extension Host Process.
+[2022-06-20 15:17:22.848] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rauli/flask-introduction)
+[2022-06-20 15:17:22.849] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-20 15:17:23.036] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rauli/flask-introduction)
+[2022-06-20 15:17:23.052] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-20 15:17:23.180] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rauli/flask-introduction)
+[2022-06-20 15:17:23.180] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-20 15:17:23.300] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rauli/flask-introduction)
+[2022-06-20 15:17:23.301] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-20 15:17:23.414] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rauli/flask-introduction)
+[2022-06-20 15:17:23.414] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-20 15:17:23.529] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rauli/flask-introduction)
+[2022-06-20 15:17:23.530] [remoteagent] [error] [File Watcher (universal)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-06-20 15:17:24.739] [remoteagent] [error] ["Error: Could not find pty on pty host","    at m._throwIfNoPty (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:20:5333)","    at m.updateTitle (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:20:1673)","    at Object.call (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:13:8361)","    at g.onPromise (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:4879)","    at g.onRawMessage (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:4267)","    at /home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:3555","    at D.invoke (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:145)","    at N.deliver (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:2271)","    at h.fire (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:1849)","    at process.p (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:6:34973)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-06-20 15:17:36.660] [remoteagent] [info] [127.0.0.1][0d16ee64][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-20 15:17:36.681] [remoteagent] [info] [127.0.0.1][28e626c7][ExtensionHostConnection] <11531> Extension Host Process exited with code: 0, signal: null.
+[2022-06-20 15:20:05.996] [remoteagent] [info] [127.0.0.1][5fb8fc9b][ManagementConnection] New connection established.
+[2022-06-20 15:20:06.080] [remoteagent] [info] [127.0.0.1][0b8b31ba][ExtensionHostConnection] New connection established.
+[2022-06-20 15:20:06.097] [remoteagent] [info] [127.0.0.1][0b8b31ba][ExtensionHostConnection] <11771> Launched Extension Host Process.
+[2022-06-20 15:20:06.668] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rauli/flask-introduction)
+[2022-06-20 15:20:06.669] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-20 15:20:06.802] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rauli/flask-introduction)
+[2022-06-20 15:20:06.803] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-20 15:20:06.923] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rauli/flask-introduction)
+[2022-06-20 15:20:06.923] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-20 15:20:07.049] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rauli/flask-introduction)
+[2022-06-20 15:20:07.049] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-20 15:20:07.167] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rauli/flask-introduction)
+[2022-06-20 15:20:07.167] [remoteagent] [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+[2022-06-20 15:20:07.313] [remoteagent] [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /home/rauli/flask-introduction)
+[2022-06-20 15:20:07.313] [remoteagent] [error] [File Watcher (universal)] gave up attempting to restart watcher after error: Bad file descriptor
+[2022-06-20 15:20:08.758] [remoteagent] [error] ["Error: Could not find pty on pty host","    at m._throwIfNoPty (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:20:5333)","    at m.updateTitle (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:20:1673)","    at Object.call (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:13:8361)","    at g.onPromise (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:4879)","    at g.onRawMessage (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:4267)","    at /home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:12:3555","    at D.invoke (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:145)","    at N.deliver (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:2271)","    at h.fire (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:8:1849)","    at process.p (/home/rauli/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/platform/terminal/node/ptyHostMain.js:6:34973)","    at process.emit (node:events:390:28)","    at emit (node:internal/child_process:917:12)","    at processTicksAndRejections (node:internal/process/task_queues:84:21)"]
+[2022-06-20 15:21:18.170] [remoteagent] [info] [127.0.0.1][feae44e5][ExtensionHostConnection] <11141> Extension Host Process exited with code: 0, signal: null.
+[2022-06-20 15:22:33.063] [remoteagent] [info] [127.0.0.1][5fb8fc9b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-20 15:22:33.087] [remoteagent] [info] [127.0.0.1][0b8b31ba][ExtensionHostConnection] <11771> Extension Host Process exited with code: 0, signal: null.
+[2022-06-20 15:22:33.087] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-06-20 15:22:37.517] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-06-20 15:22:37.517] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-06-20 15:22:37.733] [remoteagent] [info] [127.0.0.1][263ad851][ManagementConnection] New connection established.
+[2022-06-20 15:22:37.924] [remoteagent] [info] [127.0.0.1][185495f3][ExtensionHostConnection] New connection established.
+[2022-06-20 15:22:37.944] [remoteagent] [info] [127.0.0.1][185495f3][ExtensionHostConnection] <12008> Launched Extension Host Process.
+[2022-06-20 15:27:37.519] [remoteagent] [info] New EH opened, aborting shutdown

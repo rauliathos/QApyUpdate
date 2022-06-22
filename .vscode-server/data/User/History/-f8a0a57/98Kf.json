@@ -1,0 +1,15 @@
+{
+    "workbench.colorTheme": "Monokai Pro",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "remote.SSH.remotePlatform": {
+        "22AprEnamble3": "linux",
+        "instance_raul": "linux",
+        "instance-1": "linux",
+        "pyweek-2": "linux",
+        "instance-3": "linux"
+    },
+    "git.autofetch": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "window.zoomLevel": -2
+}

@@ -1,0 +1,72 @@
+[Info  - 8:04:28 AM] (2594) Pylance language server 2022.6.20 (pyright 979d9c9e) starting
+[Info  - 8:04:28 AM] (2594) Server root directory: /home/rauli/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.20/dist
+Notebook support: Legacy
+[Info  - 8:04:29 AM] (2594) Background analysis(1) root directory: /home/rauli/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.20/dist
+[Info  - 8:04:29 AM] (2594) Background analysis(1) started
+[Info  - 8:04:29 AM] (2594) No configuration file found.
+[Info  - 8:04:29 AM] (2594) No pyproject.toml file found.
+[Info  - 8:04:29 AM] (2594) Setting pythonPath for service "rauli": "/usr/bin/python3"
+[Warn  - 8:04:29 AM] (2594) stubPath /home/rauli/typings is not a valid directory.
+[Info  - 8:04:29 AM] (2594) Assuming Python version 3.6
+[Info  - 8:04:29 AM] (2594) Assuming Python platform Linux
+[Info  - 8:04:29 AM] (2594) Searching for source files
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/ToDoForked/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/exercise/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/exercise_dif/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/exercise_templating/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/flask/FlaskDay2/databaseLayer/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/flask/FlaskDay2/flask-db-relationships/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/flask/FlaskDay2/flask_app_ex/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/flask/FlaskDay2/routes/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/flask/FlaskDay3/FlaskCRUD/flask-db-crud/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/flask/flask-introduction/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/flask-form-validators/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/flask-forms/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/flask-templating/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/flask-unit-testing/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/gunicorn-test/venv
+[Info  - 8:04:29 AM] (2594) Auto-excluding /home/rauli/todo_html/venv
+[Info  - 8:04:29 AM] (2594) Found 100 source files
+[Info  - 8:04:30 AM] (2594) Indexer background runner(2) root directory: /home/rauli/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.20/dist (index)
+[Info  - 8:04:30 AM] (2594) Indexing(2) started
+[Info  - 8:04:34 AM] (2594) [BG(1)] Long operation: checking: /home/rauli/gunicorn-test/app.py (2528ms)
+[Info  - 8:04:34 AM] (2594) [BG(1)] Long operation: analyzing: /home/rauli/gunicorn-test/app.py (3365ms)
+[Info  - 8:04:37 AM] (2594) [IDX(2)] Long operation: index execution environment /home/rauli (4226ms)
+[Info  - 8:04:37 AM] (2594) [IDX(2)] Long operation: index libraries /home/rauli (6141ms)
+[Info  - 8:04:37 AM] (2594) Indexer done(2). indexed 466 files
+[Info  - 8:05:50 AM] (2594) Searching for source files
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/ToDoForked/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/exercise/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/exercise_dif/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/exercise_templating/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/flask/FlaskDay2/databaseLayer/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/flask/FlaskDay2/flask-db-relationships/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/flask/FlaskDay2/flask_app_ex/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/flask/FlaskDay2/routes/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/flask/FlaskDay3/FlaskCRUD/flask-db-crud/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/flask/flask-introduction/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/flask-form-validators/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/flask-forms/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/flask-templating/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/flask-unit-testing/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/gunicorn-test/venv
+[Info  - 8:05:50 AM] (2594) Auto-excluding /home/rauli/todo_html/venv
+[Info  - 8:05:50 AM] (2594) Found 100 source files
+[Info  - 3:22:17 PM] (2594) Searching for source files
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/ToDoForked/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/exercise/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/exercise_dif/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/exercise_templating/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/flask/FlaskDay2/databaseLayer/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/flask/FlaskDay2/flask-db-relationships/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/flask/FlaskDay2/flask_app_ex/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/flask/FlaskDay2/routes/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/flask/FlaskDay3/FlaskCRUD/flask-db-crud/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/flask/flask-introduction/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/flask-form-validators/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/flask-forms/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/flask-templating/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/flask-unit-testing/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/gunicorn-test/venv
+[Info  - 3:22:17 PM] (2594) Auto-excluding /home/rauli/todo_html/venv
+[Info  - 3:22:17 PM] (2594) Found 100 source files

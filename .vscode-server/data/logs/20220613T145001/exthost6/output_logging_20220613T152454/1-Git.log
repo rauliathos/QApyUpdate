@@ -1,0 +1,71 @@
+[2022-06-13T15:24:55.005Z] Validating found git in: git
+[2022-06-13T15:24:55.054Z] Using git 2.17.1 from git
+[2022-06-13T15:24:55.102Z] > git rev-parse --show-toplevel [35ms]
+[2022-06-13T15:24:55.102Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-13T15:24:55.146Z] > git rev-parse --show-toplevel [29ms]
+[2022-06-13T15:24:55.146Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-13T15:24:55.157Z] > git rev-parse --show-toplevel [1ms]
+[2022-06-13T15:24:55.157Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-13T15:24:55.169Z] > git rev-parse --show-toplevel [3ms]
+[2022-06-13T15:24:55.169Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-13T15:24:55.178Z] > git rev-parse --show-toplevel [2ms]
+[2022-06-13T15:24:55.178Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-13T15:24:55.197Z] > git rev-parse --show-toplevel [8ms]
+[2022-06-13T15:24:55.197Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-13T15:24:55.210Z] > git rev-parse --show-toplevel [4ms]
+[2022-06-13T15:24:55.210Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-13T15:24:55.297Z] > git rev-parse --show-toplevel [77ms]
+[2022-06-13T15:24:55.322Z] > git rev-parse --git-dir --git-common-dir [11ms]
+[2022-06-13T15:24:55.334Z] Open repository: /home/rauli/flask_intro
+[2022-06-13T15:24:55.371Z] > git status -z -uall [9ms]
+[2022-06-13T15:24:55.381Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-13T15:24:55.398Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+[2022-06-13T15:24:55.421Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [12ms]
+[2022-06-13T15:24:55.422Z] > git remote --verbose [4ms]
+[2022-06-13T15:24:55.442Z] > git config --get commit.template [2ms]
+[2022-06-13T15:24:55.663Z] > git fetch [314ms]
+[2022-06-13T15:24:55.675Z] > git status -z -uall [1ms]
+[2022-06-13T15:24:55.701Z] > git symbolic-ref --short HEAD [16ms]
+[2022-06-13T15:24:55.719Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+[2022-06-13T15:24:55.743Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+[2022-06-13T15:24:55.755Z] > git remote --verbose [15ms]
+[2022-06-13T15:24:55.807Z] > git config --get commit.template [33ms]
+[2022-06-13T15:24:55.832Z] > git rev-parse --show-toplevel [26ms]
+[2022-06-13T15:24:55.832Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-13T15:24:55.846Z] > git rev-parse --show-toplevel [6ms]
+[2022-06-13T15:24:55.846Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-13T15:24:56.037Z] > git check-ignore -v -z --stdin [1ms]
+[2022-06-13T15:24:56.854Z] > git status -z -uall [0ms]
+[2022-06-13T15:24:56.865Z] > git symbolic-ref --short HEAD [2ms]
+[2022-06-13T15:24:56.876Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-06-13T15:24:56.892Z] > git remote --verbose [1ms]
+[2022-06-13T15:24:56.893Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [10ms]
+[2022-06-13T15:24:56.907Z] > git config --get commit.template [3ms]
+[2022-06-13T15:27:05.296Z] > git rev-parse --show-toplevel [2ms]
+[2022-06-13T15:27:05.296Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-06-13T15:27:56.069Z] > git fetch [250ms]
+[2022-06-13T15:27:56.076Z] > git status -z -uall [2ms]
+[2022-06-13T15:27:56.086Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-13T15:27:56.093Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-06-13T15:27:56.105Z] > git remote --verbose [2ms]
+[2022-06-13T15:27:56.106Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-06-13T15:27:56.114Z] > git config --get commit.template [0ms]
+[2022-06-13T15:27:57.232Z] > git status -z -uall [4ms]
+[2022-06-13T15:27:57.241Z] > git symbolic-ref --short HEAD [2ms]
+[2022-06-13T15:27:57.248Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-06-13T15:27:57.261Z] > git remote --verbose [2ms]
+[2022-06-13T15:27:57.262Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-06-13T15:27:57.270Z] > git config --get commit.template [1ms]
+[2022-06-13T15:30:56.386Z] > git fetch [263ms]
+[2022-06-13T15:30:56.394Z] > git status -z -uall [3ms]
+[2022-06-13T15:30:56.401Z] > git symbolic-ref --short HEAD [2ms]
+[2022-06-13T15:30:56.407Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+[2022-06-13T15:30:56.420Z] > git remote --verbose [2ms]
+[2022-06-13T15:30:56.421Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-06-13T15:30:56.429Z] > git config --get commit.template [1ms]
+[2022-06-13T15:30:57.549Z] > git status -z -uall [2ms]
+[2022-06-13T15:30:57.558Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-13T15:30:57.568Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+[2022-06-13T15:30:57.583Z] > git remote --verbose [1ms]
+[2022-06-13T15:30:57.584Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]
+[2022-06-13T15:30:57.596Z] > git config --get commit.template [2ms]

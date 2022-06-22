@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block body %}
+{% for user in ["ben", "harry", "bob", "jay", "matt", "bill"] %}
+{% for u in user %}
+{% if u == "b" %}
+{% endif %}
+<h1>{{ user }}</h1>
+{% else %}
+
+<h1>Has no letter b inside</h1>
+
+
+
+{% endfor %}
+<p>["ben", "harry", "bob", "jay", "matt", "bill"]</p>
+{% endblock body %}
+
+
+

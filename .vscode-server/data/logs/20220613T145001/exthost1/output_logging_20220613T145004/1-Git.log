@@ -1,0 +1,14 @@
+[2022-06-13T14:50:04.638Z] Validating found git in: git
+[2022-06-13T14:50:04.686Z] Using git 2.17.1 from git
+[2022-06-13T14:52:09.857Z] > git clone git@github.com:rauliathos/flask_intro.git /home/rauli/flask_intro --progress [351ms]
+[2022-06-13T14:52:09.857Z] Cloning into '/home/rauli/flask_intro'...
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[2022-06-13T14:53:25.859Z] > git clone https://github.com/rauliathos/flask_intro.git /home/rauli/flask_intro --progress [571ms]
+[2022-06-13T14:53:25.859Z] Cloning into '/home/rauli/flask_intro'...
+remote: Enumerating objects: 3, done.        
+remote: Counting objects:  33% (1/3)        remote: Counting objects:  66% (2/3)        remote: Counting objects: 100% (3/3)        remote: Counting objects: 100% (3/3), done.        
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0        
