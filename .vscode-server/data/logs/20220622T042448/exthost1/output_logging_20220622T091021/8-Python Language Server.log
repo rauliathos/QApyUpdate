@@ -147,3 +147,57 @@ Notebook support: Legacy
 [Info  - 10:07:41 AM] (29536) Auto-excluding /home/rauli/gunicorn-test/venv
 [Info  - 10:07:41 AM] (29536) Auto-excluding /home/rauli/todo_html/venv
 [Info  - 10:07:41 AM] (29536) Found 100 source files
+[Info  - 10:18:58 AM] (29536) Searching for source files
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/ToDoForked/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/exercise/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/exercise_dif/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/exercise_templating/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay2/databaseLayer/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay2/flask-db-relationships/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay2/flask_app_ex/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay2/routes/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay3/FlaskCRUD/flask-db-crud/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/flask/flask-introduction/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/flask-form-validators/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/flask-forms/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/flask-templating/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/flask-unit-testing/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/gunicorn-test/venv
+[Info  - 10:18:58 AM] (29536) Auto-excluding /home/rauli/todo_html/venv
+[Info  - 10:18:58 AM] (29536) Found 100 source files
+[Info  - 10:20:07 AM] (29536) Searching for source files
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/ToDoForked/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/exercise/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/exercise_dif/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/exercise_templating/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay2/databaseLayer/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay2/flask-db-relationships/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay2/flask_app_ex/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay2/routes/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay3/FlaskCRUD/flask-db-crud/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/flask/flask-introduction/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/flask-form-validators/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/flask-forms/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/flask-templating/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/flask-unit-testing/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/gunicorn-test/venv
+[Info  - 10:20:07 AM] (29536) Auto-excluding /home/rauli/todo_html/venv
+[Info  - 10:20:07 AM] (29536) Found 100 source files
+[Info  - 11:54:10 AM] (29536) Searching for source files
+[Info  - 11:54:10 AM] (29536) Auto-excluding /home/rauli/ToDoForked/venv
+[Info  - 11:54:10 AM] (29536) Auto-excluding /home/rauli/exercise/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/exercise_dif/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/exercise_templating/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay2/databaseLayer/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay2/flask-db-relationships/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay2/flask_app_ex/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay2/routes/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/flask/FlaskDay3/FlaskCRUD/flask-db-crud/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/flask/flask-introduction/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/flask-form-validators/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/flask-forms/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/flask-templating/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/flask-unit-testing/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/gunicorn-test/venv
+[Info  - 11:54:11 AM] (29536) Auto-excluding /home/rauli/todo_html/venv
+[Info  - 11:54:11 AM] (29536) Found 100 source files

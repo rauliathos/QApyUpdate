@@ -1,0 +1,18 @@
+[2022-06-23 08:26:27.164] [remoteagent] [info] Extension host agent started.
+[2022-06-23 08:26:27.602] [remoteagent] [info] [127.0.0.1][b9732993][ManagementConnection] New connection established.
+[2022-06-23 08:26:27.621] [remoteagent] [info] [127.0.0.1][233799c4][ExtensionHostConnection] New connection established.
+[2022-06-23 08:26:27.642] [remoteagent] [info] [127.0.0.1][233799c4][ExtensionHostConnection] <2528> Launched Extension Host Process.
+[2022-06-23 08:26:33.177] [remoteagent] [info] Getting Manifest... kevinrose.vsc-python-indent
+[2022-06-23 08:26:33.178] [remoteagent] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-06-23 08:26:33.231] [remoteagent] [info] Installing extension: kevinrose.vsc-python-indent
+[2022-06-23 08:26:33.234] [remoteagent] [info] Installing extension: ms-python.vscode-pylance
+[2022-06-23 08:26:34.106] [remoteagent] [info] Downloaded extension: kevinrose.vsc-python-indent /home/rauli/.vscode-server/data/CachedExtensionVSIXs/kevinrose.vsc-python-indent-1.17.0
+[2022-06-23 08:26:34.344] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.d56bba94-eb7d-40a6-9a32-f0c28454b6d5: kevinrose.vsc-python-indent
+[2022-06-23 08:26:34.604] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/kevinrose.vsc-python-indent-1.17.0
+[2022-06-23 08:26:34.604] [remoteagent] [info] Downloaded extension: ms-python.vscode-pylance /home/rauli/.vscode-server/data/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.6.30
+[2022-06-23 08:26:34.607] [remoteagent] [info] Extracting completed. kevinrose.vsc-python-indent
+[2022-06-23 08:26:34.616] [remoteagent] [info] Extension installed successfully: kevinrose.vsc-python-indent
+[2022-06-23 08:26:41.684] [remoteagent] [info] Extracted extension to /home/rauli/.vscode-server/extensions/.1862a2bd-8f3f-4e33-b2af-7b104d49c8d6: ms-python.vscode-pylance
+[2022-06-23 08:26:41.697] [remoteagent] [info] Renamed to /home/rauli/.vscode-server/extensions/ms-python.vscode-pylance-2022.6.30
+[2022-06-23 08:26:41.700] [remoteagent] [info] Extracting completed. ms-python.vscode-pylance
+[2022-06-23 08:26:41.708] [remoteagent] [info] Extension installed successfully: ms-python.vscode-pylance

@@ -8,3 +8,10 @@ User belongs to experiment group 'jupyterEnhancedDataViewer'
 info 9:10:26.987: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
 info 9:10:28.226: Process Execution: > /usr/bin/python3 -m pip list
 > /usr/bin/python3 -m pip list
+info 13:37:15.133: Shutting down notebooks for b54b4e4f-926c-46e2-8de8-ae36b7e1e1d6
+info 13:37:15.134: Disposing HostJupyterExecution 86f21bc9-3e09-4c50-90d6-8327acab1d64
+info 13:37:15.134: Disposing super HostJupyterExecution 86f21bc9-3e09-4c50-90d6-8327acab1d64
+info 13:37:15.136: Disposing HostJupyterExecution 86f21bc9-3e09-4c50-90d6-8327acab1d64
+info 13:37:15.136: Finished disposing HostJupyterExecution  86f21bc9-3e09-4c50-90d6-8327acab1d64
+info 13:37:15.149: Cleaning up server cache 86f21bc9-3e09-4c50-90d6-8327acab1d64
+info 13:37:15.150: Finished disposing HostJupyterExecution  86f21bc9-3e09-4c50-90d6-8327acab1d64

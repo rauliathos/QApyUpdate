@@ -554,3 +554,176 @@ ls -l
 ssh rauli@34.89.53.28
 curl localhost:5000/script
 curl localhost:5000/script | bash
+git clone https://gitlab.com/qacdevops/data-streams-remote-script.git
+cd data-streams-remote-script
+. ./deploy.sh
+deactivate
+sd
+cd ..
+cd..
+cd ..
+ls
+cd ..
+cd lost+found/
+ls -l
+cd lost+found/
+ls lost+found/
+sudo cd lost+found/
+mkdir www
+ls
+mkdir wwws
+cd#
+cd #
+cd ~
+ls
+mkdir wwww
+rm wwww/
+rm -rf wwww/
+git status
+git init
+git status
+git add .
+git commit -m "huge commit to keep up to date"
+git push
+git push origin main
+git push
+git branch
+git push master
+git push --set-upstream master master
+git push origin master
+git status
+git add .
+git commit -m 'commit'
+git push
+git remote add rauliathos https://github.com/rauliathos/QApyUpdate.git
+git push rauliathos
+git push --set-upstream main master
+git push --set-upstream rauliathos master
+mkdir linux
+cd linux/
+touch country.txt
+code country.txt 
+cut -d, -f1,4 country.txt | grep english
+sort -t, -k4 country.txt | cut -d, -f1,4
+cut -d, -f3 country.txt | sort -k2 | uniq
+grep -v roma
+grep -v rome country.txt 
+cut -d, -f1,4 country.txt | grep english
+cut -d, -f1,2 country.txt | grep rome
+who | tee */* other.txt
+who | tee -a other.txt | grep -f1,4 */*
+who | tee -a other.txt | cut -d -f1,4 country.txt
+who | tee -a other.txt | cut  -f1,4 country.txt
+cut -t/ country.txt | tee other.txt 
+cut -d -t/ country.txt | tee other.txt 
+cut -d, -t/ country.txt | tee other.txt 
+touch example.sh
+whoami
+ls
+#! /bin/bash
+whomai
+#! /bin/bash
+whoami
+ls
+#! /bin/bash
+#! whoami
+#! ls
+chmod +x example.sh
+./example.sh 
+export PATH=$(pwd):$PATH
+if [ 101 -gt 100 ]; then     echo "101 is greater than 100"; fi
+user=johndoe
+echo ${user}
+echo "Please enter your name and press enter"
+read inputname
+echo "Hello ${inputname}"
+echo "Enter 3 names separated with spaces"
+read inputnames
+done
+echo "Enter 3 names separated with spaces"
+read inputnames
+2 3 4
+echo "Enter 3 names separated with spaces"
+read inputnames
+for i in $inputnames; do     echo "Person number ${personnumber}: ${i}";     ((personnumber++)); done
+echo "Enter a number"
+read inputnumber
+looper = 1
+while [ ${looper} -lt ${inputnumber} ]; do     echo "${looper} is smaller then ${inputnumber}";     ((looper++)); done
+echo "Enter a number"
+read inputnumber
+looper=1
+while [${looper} -lt{inputnumber}]; do echo"${looper} is smaller than ${inputnumber}"; ((looper++)); done
+while [ ${looper} -lt {inputnumber}]; do echo"${looper} is smaller than ${inputnumber}"; ((looper++)); done
+while [ ${looper} -lt {inputnumber} ]; do echo"${looper} is smaller than ${inputnumber}"; ((looper++)); done
+read inputnumer 7
+while [ ${looper} -lt {inputnumber} ]; do echo"${looper} is smaller than ${inputnumber}"; ((looper++)); done
+read inputnumer 7
+echo "Enter a number"
+read inputnumber
+while [ ${looper} -lt ${inputnumber} ]; do     echo "${looper} is smaller then ${inputnumber}";     ((looper++)); done
+echo "Enter your grade (A-F):"
+read grade
+case ${grade} in     "A") echo "Brilliant";;     "B") echo "Well done";;     "C") echo "Not bad";;     "D") echo "Could be better";;     "E") echo "Not Great";;     "F") echo "Bad";;     *) echo "Don't recognise this grade";; esac
+echo "Enter your grade (A-F):"
+read grade
+esac
+./example.sh 
+sudo useradd -m -s /bin/bash jenkins
+sudo apt install -y nginx
+sudo visudo
+sudo visudo
+cd linux/
+sudo visudo
+sudo useradd -m -s /bin/bash jenkins
+sudo apt install -y nginx
+sudo visudo
+sudo su - jenkins
+sudo visudo
+sudo su - jenkins
+sudo systemctl start nginx
+sudo systemctl stop nginx
+sudo systemctl status nginx
+sudo apt install -y nginx curl
+sudo systemctl status nginx
+curl localhost
+sudo systemctl status nginx
+curl localhost
+sudo systemctl status nginx
+ls
+cd 
+curl localhost
+sudo apt install -y nginx curl
+curl localhost
+sudo systemctl status nginx
+curl localhost
+sudo apt install -y nginx curl
+sudo systemctl status nginx
+sudo apt autoremove
+sudo apt install -y nginx curl
+sudo systemctl status nginx
+ls
+cd linux/
+ls
+sudo apt install -y nginx curl
+sudo systemctl status nginx
+systemctl daemon-reload
+cd ..
+cd ~
+ls
+cd ..
+ls
+rm -rf john/
+cd john/
+ls
+ls -a#
+ls -a
+echo .bashrc 
+code .bashrc 
+cd ~
+sudo apt install -y nginx curl
+curl localhost
+sudo systemctl stop nginx
+sudo systemctl disable nginx 
+sudo systemctl stop nginx
+sudo apt purge -y nginx

@@ -1,0 +1,11 @@
+[Unit]
+Description=Tutorial Service
+
+[Service]
+User=tutorial-user
+Environment=OUTPUT_FILE=/tmp/output.txt
+Environment=ENVIRONMENT='development'
+ExecStart=/bin/sh -c 'while true; do sleep 1; echo "$(date): Running on ${ENVIRONMENT} as: $(whoami)" >> ${OUTPUT_FILE}; done'
+
+[Install]
+WantedBy=multi-user.target
